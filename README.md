@@ -1,4 +1,5 @@
-### Hi there 👋
+### One day maybe someone else will read these words! That might mean that I've successfully created a game or two that I'm ready to share. Awesome!
+### I can't put contact info in a public place like this. Because bots and spam. But if you need to contact me, like, check out the url and use your strong powers of deduction to figure out my email address. 
 
 <!--
 **BlargNoodles/Blargnoodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
